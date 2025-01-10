@@ -1,5 +1,3 @@
-# Gas_predicition
-
 # Natural Gas Price Forecasting
 
 ## **Description**
